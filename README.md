@@ -19,5 +19,6 @@ The materials referenced and discussed here are either best in class or the curr
    - https://get.foundation/sites/docs/
 7. JavaScript
    - https://javascript.info/
+   - [ES6] https://codeutopia.net/blog/2015/01/06/es6-what-are-the-benefits-of-the-new-features-in-practice/
 
 8. jQuery
