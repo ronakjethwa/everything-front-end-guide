@@ -13,4 +13,6 @@ The materials referenced and discussed in the book are either best in class or t
 5. Bootstrap
 6. Foundation
 7. JavaScript
+https://javascript.info/
+
 8. jQuery
