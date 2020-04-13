@@ -12,13 +12,13 @@ The materials referenced and discussed in the book are either best in class or t
    - https://sass-guidelin.es/#introduction
    - https://css-tricks.com/sass-style-guide/
 4. Less
-  - https://scotch.io/tutorials/getting-started-with-less
-  - http://lesscss.org/#overview
+   - https://scotch.io/tutorials/getting-started-with-less
+   - http://lesscss.org/#overview
 5. Bootstrap
- - https://getbootstrap.com/docs/4.3/getting-started/introduction/
+   - https://getbootstrap.com/docs/4.3/getting-started/introduction/
 6. Foundation
-  - https://get.foundation/sites/docs/
+   - https://get.foundation/sites/docs/
 7. JavaScript
-  - https://javascript.info/
+   - https://javascript.info/
 
 8. jQuery
