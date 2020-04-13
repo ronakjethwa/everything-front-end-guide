@@ -1,11 +1,10 @@
 # Everything Front End Guide
-This is a guide that everyone can use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2020.
+This is a guide that everyone can use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and where to learn it in 2020.
 
-It is specifically written with the intention of being a professional resource for potential and currently practicing front-end developers to equip themselves with learning materials and development tools.
+The materials referenced and discussed here are either best in class or the current offering to a problem. The idea behind this is to create a centralized all-in-one documentation to house all the different resources I have been utilizing to enhance my front-end development skills on a routine basis.
 
-The materials referenced and discussed in the book are either best in class or the current offering to a problem.
+## Stacks To Learn | Where To Learn
 
-## Stack To Learn
 1. HTML5
 2. CSS3
 3. Sass
