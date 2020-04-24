@@ -41,5 +41,5 @@ The materials referenced and discussed here are either best in class or the curr
 
 ### jQuery
    - https://css-tricks.com/lodge/learn-jquery/
-   - https://www.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-intro/a/are-you-ready-to-learn-jquery
+   - https://www.khanacademy.org/computing/computer-programming/html-js-jquery/
 
